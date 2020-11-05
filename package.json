@@ -1,0 +1,30 @@
+{
+  "deprecated": false,
+  "description": "Changes the default WebView to x5engine",
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=4"
+    },
+    {
+      "name": "cordova-plugman",
+      "version": ">=5.2.0"
+    }
+  ],
+  "homepage": "https://github.com/fssgh/x5webview-cordova-plugin-for-ionic#readme",
+  "keywords": [
+    "cordova",
+    "chromium",
+    "x5engine",
+    "webview",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "Apache 2.0",
+  "name": "x5webview-cordova-plugin-for-ionic",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fssgh/x5webview-cordova-plugin-for-ionic.git"
+  },
+  "version": "1.0.0"
+}
